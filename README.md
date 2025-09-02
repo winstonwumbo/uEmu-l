@@ -67,7 +67,7 @@ Now, from inside the virtual machine, you have the contents of this repository a
 
 You must install a few packages in order to build μEmu manually.
 The required packages of μEmu is same as the current S2E 2.0,
-You can check out all [required packages](https://github.com/MCUSec/uEmu/blob/main/vagrant-bootstrap.sh#L8) from line 8 to 21 in the Vagrant script.
+You can check out all [required packages](https://github.com/MCUSec/uEmu/blob/main/vagrant-bootstrap.sh#L8) from line 8 to 22 in the Vagrant script.
 
 
 ### Checking out source code

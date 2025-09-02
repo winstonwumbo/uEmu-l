@@ -6,7 +6,8 @@ sudo dpkg --add-architecture i386
 sudo apt-get update
 sudo apt-get dist-upgrade
 sudo apt-get -y install build-essential cmake wget texinfo flex bison       \
-    python-dev python3-dev python3-venv python3-distro mingw-w64 lsb-release
+    python-dev python3-dev python3-venv python3-distro python3-jinja2       \
+    mingw-w64 lsb-release
 
 sudo apt-get update
 sudo apt-get -y install libdwarf-dev libelf-dev libelf-dev:i386             \
