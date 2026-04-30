@@ -1,1 +1,4 @@
 .vagrant/
+s2e-out*/
+s2e-last
+AFL/
